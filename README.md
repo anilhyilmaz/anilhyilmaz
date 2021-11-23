@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 <h1 align="center">Hi 👋, I'm ANIL HAYDAR YILMAZ</h1>
 <h3 align="center">Mobile developer from Turkey</h3>
 
@@ -21,5 +18,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilhyilmaz&show_icons=true&locale=en&layout=compact" alt="anilhyilmaz" /></p>
 
-
--->
